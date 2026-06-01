@@ -11,3 +11,6 @@ A responsive interactive quiz application built using HTML, CSS and JavaScript.
 - Progress indicator
 - Responsive design
 - Restart quiz functionality
+
+# Live Demo :
+-  https://25it056-dot.github.io/Interactive_Quiz_Application/
